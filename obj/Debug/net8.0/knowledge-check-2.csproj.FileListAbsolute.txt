@@ -1,0 +1,14 @@
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.deps.json
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.runtimeconfig.json
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.dll
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/bin/Debug/net8.0/knowledge-check-2.pdb
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.AssemblyInfoInputs.cache
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.AssemblyInfo.cs
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.csproj.CoreCompileInputs.cache
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.dll
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/refint/knowledge-check-2.dll
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.pdb
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/knowledge-check-2.genruntimeconfig.cache
+/Users/codymiller/Coding/CodeYou/knowledge-check-2/knowledge-check-2/obj/Debug/net8.0/ref/knowledge-check-2.dll
